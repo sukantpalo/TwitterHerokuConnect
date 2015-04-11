@@ -1,3 +1,4 @@
+require('newrelic');
 var Twitter = require('twitter');
 var pg = require('pg');
 
