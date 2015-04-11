@@ -43,4 +43,4 @@ Instructions
 Not Working?
 ------------
 
-If you encounter any problems, please [file an issue](https://github.com/metadaddy-sfdc/Heroku-Connect-Twitter-Demo/issues/new).
+If you encounter any problems, please [file an issue](https://github.com/metadaddy-sfdc/Heroku-Connect-Twitter-Demo/issues/new).# TwitterHerokuConnect
